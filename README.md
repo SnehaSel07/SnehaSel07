@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SnehaSel07
 - 👀 I’m interested in SDET, QA Automation Tester profiles.
-- 🌱 I’m currently learning Java, Selenium, TestNG, Maven
-- 💞️ I’m looking to collaborate on Selenium, TestNG, Java
+- 🌱 I’m currently learning Java, Selenium, TestNG(TDD), Maven, Cucumber(BDD), Jenkins, Git 
+- 💞️ I’m looking to collaborate on all of the above 
 - 📫 How to reach me -- chindarkarsneha@gmail.com
 
 <!---
